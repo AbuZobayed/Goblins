@@ -96,11 +96,11 @@ section {
 .hero-img img{
     width: 700px;
     height: auto;
-    /* transition: 0.5s all ease-in-out; */
+    transition: 0.5s all ease-in-out;
 }
-/* .hero-img img:hover{
+.hero-img img:hover{
     transform: scale(1.5);
-} */
+}
 
 .hero-text a{
     display: inline-block;
